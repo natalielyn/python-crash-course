@@ -1,4 +1,4 @@
 routes = {
-  “/” : “Hello World”,
-  “/goodbye” : “Goodbye World”
+  '/' : 'Hello World',
+  '/goodbye' : 'Goodbye World'
 }
